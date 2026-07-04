@@ -8,13 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year PhD candidate advised by [Prof. Oktay Günlük](https://www.orie.cornell.edu/faculty-directory/oktay-gunluk) in the department of Operations Research and Information Engineering at Cornell University.
+I'm an **Applied Scientist** in the Modeling and Optimization group at Amazon, where I design solutions for large-scale supply chain optimization problems—ranging from inventory placement and management to network topology planning. 
 
-My research interests are broadly in discrete optimization for operations research problems like production planning, electricty trading, and warehouse management. The tools I use include polyhedral analysis, algorithm design and mathematical modelling. I have recently also become interested in the optimal qubit routing problem arising in quantum computing. In addition to my interestes in operations research, I work on developing approximation algorithms for classical discrete optimization problems, particularly in network design. I like to think about how these techniques apply to supply-chain logistics and network optimization.
+Alongside my work in industry, I remain deeply connected to academia, actively contributing to the fields of **theoretical computer science** and **operations research** through peer-reviewed publications. I am always open to new research collaborations!
 
-Prior to joining Cornell, I obtained a master's degree from the University of Waterloo in the department of Combinatorics and Optimization, where I worked with Prof. Chaitanya Swamy and Prof. Jochen Köenemann. I completed my undergraduate studies from Chennai Mathematical Institute. During my time at Cornell, I've also worked with E & J Gallo Winery focussing on optimizing their transportation network across North America.
+## Research Interests
 
-Apart from research, I am a certified meditation trainer, and spend my time volunteering and helping people meditate. I also enjoy playing chess and soccer. I've been learning to play the piano and would appreciate any tips to self-learn 🙂.
+My work sits at the intersection of practical engineering and mathematical theory. I focus on developing approximation algorithms and mathematical modeling techniques for complex systems.
+
+* **Operations Research:** Discrete optimization and integer programming applied to production planning, electricity trading, inventory management, and topology optimization.
+* **Theoretical Computer Science:** Developing approximation algorithms for classical discrete optimization problems, with a particular focus on network design.
+* **Core Toolkit:** Polyhedral analysis, algorithm design, and mathematical modeling. I love finding ways to bridge these advanced theoretical techniques with real-world supply chain logistics.
+
+## Education & Experience
+
+* **Ph.D. in Operations Research & Information Engineering** | Cornell University  
+  *Advised by [Prof. Oktay Günlük](https://www.orie.cornell.edu/faculty-directory/oktay-gunluk)*
+  * *Industry Collaboration:* Partnered with E & J Gallo Winery to optimize their North American transportation network.
+* **M.Math in Combinatorics & Optimization** | University of Waterloo  
+  *Advised by Prof. Chaitanya Swamy and Prof. Jochen Könemann*
+* **B.Sc. (Hons) in Mathematics and Computer Science** | Chennai Mathematical Institute
+
+## Beyond the Math
+
+When I'm not thinking about algorithms, you can usually find me:
+* **Teaching Meditation:** I am a certified meditation trainer and spend a significant amount of my time volunteering to help people find their focus and peace.
+* **Staying Active:** Playing chess or hitting the soccer field.
+* **On the Keys:** I am currently teaching myself how to play the piano. If you have any self-learning tips, resources, or book recommendations, please send them my way!
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
