@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-In reverse chronological order.
+In reverse chronological order **(This page is not maintained)**.
 
 1. Optimal Electricity Trading\
    *Aussois Workshop on Combinatorial Optimization, Aussois 2024*
