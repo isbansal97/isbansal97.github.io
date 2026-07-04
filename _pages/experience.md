@@ -7,13 +7,17 @@ author_profile: true
 
 
 ## Industry
+1. Topic: *Ideal Inventory Placement*\
+   Company: *Amazon*\
+   Supervisor: *Cristiana Lara*\
+   Duties: Worked on optimizing the placement of over millions of products across hundreds of warehouses.
 
-1. Topic: *Optimization of Supply-Chain Network*\
+3. Topic: *Optimization of Supply-Chain Network*\
    Company: *E & J Gallo Winery*\
    Supervisor: *Ambarish Acharya*\
    Duties: Worked on optimizing the entire supply-chain network starting from production at plants, to storage at warehouses, to transportation at distribution centers.
 
-2. Topic: *Course Scheduling during a Pandemic*\
+4. Topic: *Course Scheduling during a Pandemic*\
    Company: *Cornell University*\
    Supervisor: *David Shmoys*\
    Duties: Worked on finding a feasible assignment of courses to classrooms amidst the everchanging uncertainties of the pandemic.
